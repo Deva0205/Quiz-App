@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/your-Deva0205/Quiz-App/static/css/main.e654d33b.css",
+    "main.js": "/your-Deva0205/Quiz-App/static/js/main.1d196d08.js",
+    "static/js/453.b9fb3447.chunk.js": "/your-Deva0205/Quiz-App/static/js/453.b9fb3447.chunk.js",
+    "index.html": "/your-Deva0205/Quiz-App/index.html",
+    "main.e654d33b.css.map": "/your-Deva0205/Quiz-App/static/css/main.e654d33b.css.map",
+    "main.1d196d08.js.map": "/your-Deva0205/Quiz-App/static/js/main.1d196d08.js.map",
+    "453.b9fb3447.chunk.js.map": "/your-Deva0205/Quiz-App/static/js/453.b9fb3447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e654d33b.css",
+    "static/js/main.1d196d08.js"
+  ]
+}
