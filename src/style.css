@@ -1,0 +1,59 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: hwb(45 2% 0%);
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background: hsl(322, 95%, 46%);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container, .quiz-container {
+  text-align: center;
+}
+
+input, button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+}
+
+button {
+  background-color: rgba(164, 245, 88, 0.898);
+  color:#0a0a0ae5;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: hsl(218, 89%, 44%);
+}
+
+.quiz-selection button {
+  background-color: #007bff;
+}
+
+.quiz-selection button:hover {
+  background-color: hsl(0, 84%, 43%);
+}
+
+h2 {
+  color: #333;
+}
+/* Add this to your existing style.css */
+
+.message {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: hsl(120, 3%, 7%);
+  color: #155724;
+  border: 1px solid #c3e6cb;
+  border-radius: 5px;
+}
